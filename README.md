@@ -10,13 +10,4 @@
 ```
 
 ---
-📺 My Instgram:
-
-<a href="https://www.instagram.com/chris_lyu_/">
-    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
----
-🚧 Work Work
----
 
