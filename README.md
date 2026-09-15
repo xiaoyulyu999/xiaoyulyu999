@@ -4,7 +4,7 @@
 ---
 ### 🥷 About me:
 ```
-💁🏼‍♂️ A finaly year undergraduate Computer Science student.
+💁🏼‍♂️ Ms in Computer Science.
 📚 Love reading.
 🏆 workout.
 ```
